@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyum
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Java and SQL
+- 🌱 I’m currently learning C++, Java and MySQL
 
 <!---
 eyum/eyum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
